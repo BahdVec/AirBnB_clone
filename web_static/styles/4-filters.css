@@ -18,7 +18,7 @@ section.filters button {
   float: right;
   border: none;
   border-radius: 4px;
-  position: relative;
+  position: absolute;
   right: 30px;
 }
 
